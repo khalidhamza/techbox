@@ -1,0 +1,88 @@
+@import url(//fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+
+/* Propeller icons */
+@import "http://fonts.googleapis.com/icon?family=Material+Icons";
+@import "http://propeller.in/components/icons/css/google-icons.css";
+
+/* Select2 css */
+@import "http://propeller.in/components/select2/css/select2.min.css";
+@import "http://propeller.in/components/select2/css/select2-bootstrap.css";
+
+/* Propeller typography */
+@import "http://propeller.in/components/typography/css/typography.css";
+
+/* Propeller navbar */
+@import "http://propeller.in/components/navbar/css/navbar.css";
+
+/* Propeller button */
+@import "http://propeller.in/components/button/css/button.css";
+
+/* Propeller dropdown */
+@import "http://propeller.in/components/dropdown/css/dropdown.css";
+
+/* Propeller cards */
+@import "http://propeller.in/components/card/css/card.css";
+
+/* Propeller tab */
+@import "http://propeller.in/components/tab/css/tab.css";
+
+/* Propeller text field */
+@import "http://propeller.in/components/textfield/css/textfield.css";
+
+/* Propeller select2 */
+@import "http://propeller.in/components/select2/css/pmd-select2.css";
+
+/* Propeller table */
+@import "http://propeller.in/components/table/css/table.css";
+
+/* Propeller modal */
+@import "http://propeller.in/components/modal/css/modal.css";
+
+/* Propeller radio */
+@import "http://propeller.in/components/radio/css/radio.css";
+
+/* Bootstrap datetimepicker */
+@import "http://propeller.in/components/datetimepicker/css/bootstrap-datetimepicker.css";
+
+/* Propeller datetimepicker */
+@import "http://propeller.in/components/datetimepicker/css/pmd-datetimepicker.css";
+.white{
+	color: white;
+}
+.white:hover{
+	color: white;	
+}
+.btn-user{
+	text-decoration: none;
+}
+.back-img{
+	background-image: url("../img/images.jpg");
+    background-size: 100% 100%; 
+}
+.content{
+	margin-top: 75px;	   
+}
+.back_white{
+	background-color: white;
+	padding: 2%;
+}
+.login_dev{
+	margin-top: 10%;
+}
+.page_head{
+	font-size: 25px;
+	color: #3c8dbc;
+}
+.center{
+	text-align: center;
+}
+footer{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: black;
+	text-align: center;
+	color: white;
+	font-size: 14px;
+	padding: 10%;
+}
